@@ -1,2 +1,2 @@
 # Purpose
-This folder contains difference hackerrank challenges from algorithm category.
+This folder contains different hackerrank challenges from algorithm category.
